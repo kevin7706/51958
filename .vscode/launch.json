@@ -1,0 +1,15 @@
+{
+  "version": "2.0.0",
+  "configurations": [
+    {
+      "type": "antlr-debug",
+      "request": "launch",
+      "name": "Debug ANTLR Grammar",
+      "grammar": "kdgramatica.g4",
+      "startRule": "programa",
+      "input": "input_correct1.txt",
+      "printParseTree": true,
+    "visualParseTree": true
+    }
+  ]
+}
