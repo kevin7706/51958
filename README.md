@@ -15,6 +15,8 @@ Antes de comenzar, asegúrate de tener instalados los siguientes programas:
 # Clonar el repositorio:
 1. Abre una terminal o consola de comandos (cmd).
 2. Ubícate en la carpeta donde quieras tener el proyecto.
+> ```bash
+> git clone
 3. Ejecuta el siguiente comando para clonar el repositorio:
 > ```bash
 > https://github.com/kevin7706/51958.git
